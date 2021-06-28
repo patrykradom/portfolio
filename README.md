@@ -14,8 +14,8 @@ My name is Patryk Radom and I am a beginner Software Tester. I acquired basic sk
  * [Scrum Workshops](https://sdacademy.pl/kursy/kurs-tester-zdalny/)
  * [HTML and CSS course - GoIT](https://goit.global/pl/maraton/)
 ## Technical books
- * [Atomic Habits](https://jamesclear.com/atomic-habits)
- * [Zawód tester](https://www.empik.com/zawod-tester-smilgin-radoslaw,p1122219280,ksiazka-p) - during reading
+ * [Atomic Habits](https://jamesclear.com/atomic-habits) - book about building good habits and destroying bad ones.
+ * [Zawód tester](https://www.empik.com/zawod-tester-smilgin-radoslaw,p1122219280,ksiazka-p) - during reading.
  * [Certyfikowany tester](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm) - I already own this book, next to read on my list, because I am preparing for ISTQB FL certification.
 ## Groups for knowledge gathering
  * [QA & Testing group](https://www.linkedin.com/groups/95831/)
@@ -23,13 +23,13 @@ My name is Patryk Radom and I am a beginner Software Tester. I acquired basic sk
  * [Software Testing and Quality Assurance group](https://www.linkedin.com/groups/23402/)
  * [Absolwenci Software Development Academy](https://www.linkedin.com/groups/8790851/)
 ## Recommended sites
- * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [testerzy.pl](https://testerzy.pl/)
  * [meetup.com](https://www.meetup.com/pl-PL/)
  * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?multi_permalinks=1434742530226062)
  * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/?multi_permalinks=1386739028372819)
  * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
  * [Od Juniora do Seniora](https://www.facebook.com/groups/2122635147957789/)
+ * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 ## Webinars, Meetup's
  * [Allegro Tech UX Research Confetti](https://allegro.pl/zobacz/uxconfetti)
 ## My testing
