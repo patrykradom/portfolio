@@ -26,6 +26,10 @@ My name is Patryk Radom and I am a beginner Software Tester. I acquired basic sk
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
  * [testerzy.pl](https://testerzy.pl/)
  * [meetup.com](https://www.meetup.com/pl-PL/)
+ * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?multi_permalinks=1434742530226062)
+ * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/?multi_permalinks=1386739028372819)
+ * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+ * [Od Juniora do Seniora](https://www.facebook.com/groups/2122635147957789/)
 ## Webinars, Meetup's
  * [Allegro Tech UX Research Confetti](https://allegro.pl/zobacz/uxconfetti)
 ## My testing
