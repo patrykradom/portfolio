@@ -24,8 +24,8 @@ My name is Patryk Radom and I am a beginner Software Tester. I acquired basic sk
  * [Absolwenci Software Development Academy](https://www.linkedin.com/groups/8790851/)
 ## Recommended sites
  * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
- * [testerzy.pl] (https://testerzy.pl/)
- * [meetup.com] (https://www.meetup.com/pl-PL/)
+ * [testerzy.pl](https://testerzy.pl/)
+ * [meetup.com](https://www.meetup.com/pl-PL/)
 ## Webinars, Meetup's
  * [Allegro Tech UX Research Confetti](https://allegro.pl/zobacz/uxconfetti)
 ## My testing
