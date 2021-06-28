@@ -23,8 +23,11 @@ My name is Patryk Radom and I am a beginner Software Tester. I acquired basic sk
  * [Software Testing and Quality Assurance group](https://www.linkedin.com/groups/23402/)
  * [Absolwenci Software Development Academy](https://www.linkedin.com/groups/8790851/)
 ## Recommended sites
+ * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+ * [testerzy.pl] (https://testerzy.pl/)
+ * [meetup.com] (https://www.meetup.com/pl-PL/)
 ## Webinars, Meetup's
  * [Allegro Tech UX Research Confetti](https://allegro.pl/zobacz/uxconfetti)
-## My group project (Software Development Academy course)
 ## My testing
-
+ * nopCommerce site testing - https://drive.google.com/drive/folders/19HPuBRGd1GCOkpEDnXIHRRrEUI3-51zk?usp=sharing
+ * Group project of testing Mr Buggy 3 during SDA course - https://drive.google.com/drive/folders/1NX8zDF2CLUDDF9UbuCSWvyNenD0UNvQg?usp=sharing
